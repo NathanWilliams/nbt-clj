@@ -5,8 +5,11 @@ This is not even alpha level code, just experimentation at the moment.
 
 ## Usage
 
-Don't!
-Not yet at least, there will be a blog post about this soon.
+This is currently only a support library for the following blog post:
+http://nathanwilliams.github.io/2013/04/16/minecraft-region-files/
+
+More about reading nbt in clojure is covered here:
+http://nathanwilliams.github.io/2013/02/27/reading-minecraft-nbt-data-in-clojure-with-gloss/
 
 ## License
 
